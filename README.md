@@ -22,7 +22,7 @@ logger:
 | Pin-OnBoard   | Name      | Function |
 | ----- | --------- | ----------------------------- 
 | GPIO2     | LED       | inverted LED   (( UART1 TX ))            
-| GPIO4     | Button    | meachnical Button                      
+| GPIO4     | Button    | mechanical Button                      
 | 3.3V      | VDDA      | 3.3V alternative                      
 | IO0       | flash     | to GND to flash
 | RST       | Reset     | Restart esp
